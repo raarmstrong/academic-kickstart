@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Dr Richard Armstrong
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: NIHR Academic Clinical Fellow in Anaesthetics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Population Health Sciences, University of Bristol
+  url: "http://www.bristol.ac.uk/medical-school/research/population-health-sciences/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Interested in health services research and data science.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Anaesthesia
+- Health services research
+- Data science
 
-education:
+qualifications:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Fellowship of the Royal College of Anaesthetists
+    institution: Royal College of Anaesthetists
+    year: 2018
+  - course: Membership of the Royal College of Physicians
+    institution: Royal College of Physicians
+    year: 2014
+  - course: MBBS with Distinction
+    institution: University College London
+    year: 2011
+  - course: BA Experimental Pscyhology (Cognitive Neuroscience)
+    institution: University of Cambridge
     year: 2008
 
 # Social/Academic Networking
@@ -44,16 +47,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:page@raarmstrong.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/drrichstrong
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=1m4sTK4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/raarmstrong
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Richard_Armstrong6
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an NIHR Academic Clinical Fellow in Anaesthetics at the University of Bristol and a Research Fellow at the Royal College of Anaesthetists Health Services Research Centre. My research interests are in health services research and using routinely-collected patient data to drive improvements in patient care.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+This website is currently under development so please check back soon for further updates.
