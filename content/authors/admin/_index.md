@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr Richard Armstrong
+name: Richard Armstrong
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: NIHR Academic Clinical Fellow in Anaesthetics
 
 # Organizations/Affiliations
 organizations:
-- name: Population Health Sciences, University of Bristol
+- name: School of Population Health Sciences, University of Bristol
   url: "http://www.bristol.ac.uk/medical-school/research/population-health-sciences/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,20 +25,20 @@ interests:
 - Health services research
 - Data science
 
-qualifications:
-  courses:
-  - course: Fellowship of the Royal College of Anaesthetists
-    institution: Royal College of Anaesthetists
-    year: 2018
-  - course: Membership of the Royal College of Physicians
-    institution: Royal College of Physicians
-    year: 2014
-  - course: MBBS with Distinction
-    institution: University College London
-    year: 2011
-  - course: BA Experimental Pscyhology (Cognitive Neuroscience)
-    institution: University of Cambridge
-    year: 2008
+# qualifications:
+#  courses:
+#  - course: Fellowship of the Royal College of Anaesthetists
+#    institution: Royal College of Anaesthetists
+#    year: 2018
+#  - course: Membership of the Royal College of Physicians
+#    institution: Royal College of Physicians
+#    year: 2014
+#  - course: MBBS with Distinction
+#    institution: University College London
+#    year: 2011
+#  - course: BA Experimental Pscyhology (Cognitive Neuroscience)
+#   institution: University of Cambridge
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
